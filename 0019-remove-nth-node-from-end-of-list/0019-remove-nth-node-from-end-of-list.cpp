@@ -15,11 +15,12 @@ public:
         ListNode* fast = dummy;
         ListNode* slow = dummy;
 
-        // Move fast ahead by n+1 steps to create a gap of n between slow and fast
+        // Move fast ahead by n+1 steps to create a gap of n between slow and
+        // fast
         for (int i = 0; i <= n; ++i) {
             fast = fast->next;
         }
-        while(fast!=NULL){
+        while (fast != NULL) {
             fast = fast->next;
             slow = slow->next;
         }
@@ -30,8 +31,9 @@ public:
 
         // Clean up and return the head
         ListNode* newHead = dummy->next;
-        delete dummy;  // Free the dummy node
-        delete nodeToRemove;  // Optionally delete the removed node if managing memory
+        delete dummy;        // Free the dummy node
+        delete nodeToRemove; // Optionally delete the removed node if managing
+                             // memory
         return newHead;
     }
 };
