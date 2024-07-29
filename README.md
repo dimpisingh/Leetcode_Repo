@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0128-longest-consecutive-sequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sorting
@@ -189,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
