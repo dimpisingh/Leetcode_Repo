@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0931-maximum-frequency-stack](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0931-maximum-frequency-stack) |
 ## Union Find
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
