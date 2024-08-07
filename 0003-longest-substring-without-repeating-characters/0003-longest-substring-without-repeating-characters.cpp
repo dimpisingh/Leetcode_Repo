@@ -8,7 +8,10 @@ public:
         int j = 0;
         while (j < n) {
             if (mp.find(s[j]) != mp.end()) {
-                i = max(mp[s[j]] + 1, i);
+                if(mp[s[j]]>=i){
+                    i = mp[s[j]]+1;
+                }
+                // i = max(mp[s[j]] + 1, i);
             }
             mp[s[j]] = j;
             len = max(len, j - i + 1);
