@@ -20,7 +20,8 @@ public:
                 distribute(children, cookies, index + 1, optimal, k);
             }
             children[i] -= cookies[index];
-            if(children[i]==0) break;
+            if (children[i] == 0)
+                break;
         }
     }
 };
