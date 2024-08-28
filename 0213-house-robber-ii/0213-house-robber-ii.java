@@ -1,10 +1,10 @@
 class Solution {
     static int robs(int[] a, int l, int r) {
-        int n = a.length;
+        int n = r-l+1;
         int prev = a[l];
         int prev2 = 0;
 
-        for (int i = 1; i < n - 1; i++) {
+        for (int i = 1; i < n ; i++) {
 
             int t = a[l + i];
             if (i > 1)
