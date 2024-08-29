@@ -4,7 +4,7 @@ class Solution {
             return 1;
         if (n == 1)
             return x;
-        //T.C O(logn) S.C O(1)
+        // T.C O(logn) S.C O(1)
         // long N = n; // Use long to avoid overflow when n = -2147483648
         // if (N < 0) {
         // x = 1 / x;
@@ -21,9 +21,8 @@ class Solution {
         // return result;
 
         // T.C O(log n) S.C O(1)
-        long N = n;
+        long N = n; //Convert n to long to handle the overflow issue
         if (N < 0) {
-            x = 1 / x; // Invert x if n is negative
             N = -N; // Make n positive
         }
         while (N > 0) {
@@ -35,8 +34,8 @@ class Solution {
                 N = N / 2;
             }
         }
-        // if (n < 0)
-        //     result = (double) (1.0) / (double) (result);
+        if (n < 0)
+        result = (double) (1.0) / (double) (result);
         return result;
     }
 
