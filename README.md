@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1137-height-checker](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1137-height-checker) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 ## Graph
 |  |
