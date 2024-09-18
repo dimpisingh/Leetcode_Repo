@@ -47,16 +47,7 @@ class TextEditor {
         int s = left.size();
         int cnt = Math.min(10, s);
         StringBuilder ans = new StringBuilder();
-        // Iterator<Character> iterator = left.iterator();
-        // while (s > cnt) {
-        //     iterator.next();
-        //     s--;
-        // }
-        // while (cnt > 0) {
-        //     ans.append(iterator.next());
-        //     cnt--;
-        // }
-        for(int i = s-cnt;i<left.size();i++){
+        for (int i = s - cnt; i < left.size(); i++) {
             ans.append(left.get(i));
         }
         return ans.toString();
@@ -66,34 +57,34 @@ class TextEditor {
     // StringBuffer sb = new StringBuffer();
     // int cursor = 0;
     // public TextEditor() {
-    //     sb = new StringBuffer();
-    //     cursor = 0;
+    // sb = new StringBuffer();
+    // cursor = 0;
     // }
     // public void addText(String text) {
-    //     sb.insert(cursor, text);
-    //     cursor=cursor+text.length();
+    // sb.insert(cursor, text);
+    // cursor=cursor+text.length();
     // }
     // public int deleteText(int k) {
-    //     int old = cursor;
-    //     sb.delete(Math.max(0,cursor-k),cursor);
-    //     cursor = Math.max(0,cursor-k);
-    //     return old-cursor;
+    // int old = cursor;
+    // sb.delete(Math.max(0,cursor-k),cursor);
+    // cursor = Math.max(0,cursor-k);
+    // return old-cursor;
     // }
     // public String cursorLeft(int k) {
-    //     cursor = Math.max(0,cursor-k);
-    //     return getLast10Characters();
+    // cursor = Math.max(0,cursor-k);
+    // return getLast10Characters();
     // }
-    
+
     // public String cursorRight(int k) {
 
-    //     cursor = Math.min(sb.length(), cursor+k);
-    //     return getLast10Characters();
+    // cursor = Math.min(sb.length(), cursor+k);
+    // return getLast10Characters();
     // }
     // String getLast10Characters(){
-    //     int start = Math.max(0, cursor-10);
-    //     return sb.substring(start, cursor);
+    // int start = Math.max(0, cursor-10);
+    // return sb.substring(start, cursor);
     // }
-    
+
 }
 
 /**
