@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0085-maximal-rectangle) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0054-spiral-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
 ## Prefix Sum
