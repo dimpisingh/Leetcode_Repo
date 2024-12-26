@@ -20,17 +20,17 @@ public:
             return ans;
         while (!q.empty()) {
             int size = q.size();
-            vector<int> curr;
+            vector<int> a1;
             for (int i = 0; i < size; i++) {
                 TreeNode* tmp = q.front();
+                a1.push_back(tmp->val);
                 q.pop();
-                curr.push_back(tmp->val);
                 if (tmp->left)
                     q.push(tmp->left);
                 if (tmp->right)
                     q.push(tmp->right);
             }
-            ans.push_back(curr);
+            ans.push_back(a1);
         }
         return ans;
     }
