@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
 | ------- |
