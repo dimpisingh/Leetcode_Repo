@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0387-first-unique-character-in-a-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0295-find-median-from-data-stream) |
