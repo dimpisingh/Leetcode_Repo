@@ -27,10 +27,7 @@ class Solution {
             }
             tmp = tmp.next;
         }
-        if (l1 != null) {
-            tmp.next = l1;
-        } else
-            tmp.next = l2;
+        tmp.next = (l1 != null) ? l1 : l2;
         return head.next;
 
     }
