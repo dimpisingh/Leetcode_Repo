@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0139-word-break) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2058-concatenation-of-array) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
