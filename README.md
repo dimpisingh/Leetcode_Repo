@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0371-sum-of-two-integers) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
