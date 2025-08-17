@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0338-counting-bits) |
+| [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
 ## Stack
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0371-sum-of-two-integers) |
+| [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
