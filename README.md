@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0605-can-place-flowers) |
+| [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0371-sum-of-two-integers) |
+| [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 ## Matrix
