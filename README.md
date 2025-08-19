@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Memoization
 |  |
 | ------- |
