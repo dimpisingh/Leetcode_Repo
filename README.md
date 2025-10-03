@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0300-longest-increasing-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0605-can-place-flowers) |
 | [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
