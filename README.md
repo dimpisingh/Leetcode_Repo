@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0605-can-place-flowers) |
 | [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
