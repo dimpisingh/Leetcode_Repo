@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Memoization
 |  |
 | ------- |
