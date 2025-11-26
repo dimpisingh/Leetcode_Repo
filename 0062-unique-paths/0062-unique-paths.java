@@ -1,20 +1,31 @@
 class Solution {
+    int[][] dp;
+    int res = 0;
 
-    int dfs(int m, int n, int i, int j, int[][] dp) {
-        if (i >= m || j >= n)
+    int dfs(int i, int j, int m, int n) {
+        if (i >= m || j >= n) {
             return 0;
-        if (i == m - 1 && j == n - 1)
+        }
+        if (i == m - 1 && j == n - 1) {
             return 1;
-        if (dp[i][j] != 0)
+        }
+        if (dp[i][j] != -1)
             return dp[i][j];
-        int down = dfs(m, n, i + 1, j, dp);
-        int right = dfs(m, n, i, j + 1, dp);
-        dp[i][j] = down + right;
+        int a = dfs(i + 1, j, m, n);
+        int b = dfs(i, j + 1, m, n);
+        dp[i][j] = a + b;
         return dp[i][j];
+
     }
 
     public int uniquePaths(int m, int n) {
-        int[][] dp = new int[m][n];
-        return dfs(m, n, 0, 0, dp);
+        dp = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                dp[i][j] = -1;
+            }
+        }
+
+        return dfs(0, 0, m, n);
     }
 }
