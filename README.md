@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3791-fruits-into-baskets-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
 |  |
 | ------- |
