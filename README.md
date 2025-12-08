@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
