@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2358-number-of-ways-to-split-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
