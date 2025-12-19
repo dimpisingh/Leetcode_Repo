@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
+| [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1137-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
+| [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0133-clone-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
 ## Bucket Sort
 |  |
 | ------- |
