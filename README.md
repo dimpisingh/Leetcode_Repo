@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0944-delete-columns-to-make-sorted) |
 | [1252-break-a-palindrome](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1252-break-a-palindrome) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1537-maximum-score-after-splitting-a-string) |
