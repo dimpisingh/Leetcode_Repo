@@ -1,55 +1,52 @@
 class Solution {
     public int mostBooked(int n, int[][] meetings) {
-    Arrays.sort(meetings, Comparator.comparing(meeting -> meeting[0]));
-    Comparator<Meeting> meetingComparator = Comparator.comparing(Meeting::to).thenComparing(Meeting::room);
-    PriorityQueue<Meeting> currentMeetings = new PriorityQueue<>(meetingComparator);
-    PriorityQueue<Integer> availableRooms = rooms(n);
-    Map<Integer, Integer> roomFrequency = new HashMap<>();
-    int maxFrequencyRoom = 0;
+    Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
 
-    for (int[] nextMeeting : meetings) {
-      int nextMeetingStart = nextMeeting[0], nextMeetingFinish = nextMeeting[1];
-      while (!currentMeetings.isEmpty() && currentMeetings.peek().to() <= nextMeetingStart) {
-        Meeting meeting = currentMeetings.poll();
-        availableRooms.offer(meeting.room());
-      }
+        int[] count = new int[n];
+        long[] timer = new long[n];
 
-      if (!availableRooms.isEmpty()) {
-        int room = availableRooms.poll();
-        currentMeetings.offer(new Meeting(nextMeetingFinish, room));
-        maxFrequencyRoom = updateMaxFrequencyRoom(roomFrequency, room, maxFrequencyRoom);
-      } else {
-        Meeting previousMeeting = currentMeetings.poll();
-        int room = previousMeeting.room();
-        int duration = nextMeetingFinish - nextMeetingStart;
-        currentMeetings.offer(new Meeting(previousMeeting.to() + duration, room));
-        maxFrequencyRoom = updateMaxFrequencyRoom(roomFrequency, room, maxFrequencyRoom);
-      }
-    }
+        int itr = 0;
 
-    return maxFrequencyRoom;
-  }
+        while (itr < meetings.length) {
+            int[] curr = meetings[itr];
+            int start = curr[0];
+            int end = curr[1];
+            long dur = end - start;
 
-  private int updateMaxFrequencyRoom(Map<Integer, Integer> roomFrequency, int room, int maxFrequencyRoom) {
-    roomFrequency.merge(room, 1, Integer::sum);
-    int currentFrequency = roomFrequency.get(room);
-    int maxFrequency = roomFrequency.getOrDefault(maxFrequencyRoom, Integer.MIN_VALUE);
+            int room = -1;
+            long earliest = Long.MAX_VALUE;
+            int earliestRoom = -1;
 
-    if (currentFrequency > maxFrequency) {
-      return room;
-    } else if (currentFrequency == maxFrequency)
-      return Math.min(room, maxFrequencyRoom);
+            for (int i = 0; i < n; i++) {
+                if (timer[i] < earliest) {
+                    earliest = timer[i];
+                    earliestRoom = i;
+                }
+                if (timer[i] <= start) {
+                    room = i;
+                    break;
+                }
+            }
 
-    return maxFrequencyRoom;
-  }
-  private PriorityQueue<Integer> rooms(int n) {
-    PriorityQueue<Integer> queue = new PriorityQueue<>();
-    for (int i = 0; i < n; ++i) {
-      queue.offer(i);
-    }
-    return queue;
-  }
+            if (room != -1) {
+                timer[room] = end;
+                count[room]++;
+            } else {
+                timer[earliestRoom] += dur;
+                count[earliestRoom]++;
+            }
 
-  private record Meeting(long to, int room) {
+            itr++;
+        }
+
+        int max = 0, idx = 0;
+        for (int i = 0; i < n; i++) {
+            if (count[i] > max) {
+                max = count[i];
+                idx = i;
+            }
+        }
+
+        return idx;
   }
 }
