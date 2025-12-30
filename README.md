@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0759-set-intersection-size-at-least-two) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
+| [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0944-delete-columns-to-make-sorted) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
+| [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
 | [0931-maximum-frequency-stack](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
+| [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
