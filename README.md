@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1137-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
