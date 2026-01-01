@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0085-maximal-rectangle) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0189-rotate-array) |
