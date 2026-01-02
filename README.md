@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
 | [0931-maximum-frequency-stack](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
