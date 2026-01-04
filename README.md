@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1390-four-divisors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1390-four-divisors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1925-count-square-sum-triples) |
