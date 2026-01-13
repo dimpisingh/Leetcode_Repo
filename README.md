@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
+| [3453-separate-squares-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
