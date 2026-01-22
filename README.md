@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3606-coupon-code-validator) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0876-middle-of-the-linked-list) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0931-maximum-frequency-stack) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Stack
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -673,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0146-lru-cache) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
