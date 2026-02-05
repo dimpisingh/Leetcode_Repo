@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2211-count-collisions-on-a-road) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
+| [3379-transformed-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
