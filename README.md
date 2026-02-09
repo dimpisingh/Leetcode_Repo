@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1252-break-a-palindrome) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1975-maximum-matrix-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2092-find-all-people-with-secret) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -587,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
