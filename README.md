@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1390-four-divisors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1137-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3583-count-special-triplets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3713-longest-balanced-substring-i) |
 ## Ordered Set
