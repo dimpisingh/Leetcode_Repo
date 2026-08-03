@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1266-minimum-time-visiting-all-points) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1390-four-divisors](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -827,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
