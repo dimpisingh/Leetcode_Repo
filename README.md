@@ -838,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
