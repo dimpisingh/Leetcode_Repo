@@ -841,5 +841,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
