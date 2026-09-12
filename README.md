@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3453-separate-squares-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3606-coupon-code-validator) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
