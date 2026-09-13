@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0759-set-intersection-size-at-least-two) |
 | [0829-subdomain-visit-count](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0829-subdomain-visit-count) |
+| [0835-image-overlap](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0929-unique-email-addresses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0929-unique-email-addresses) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
