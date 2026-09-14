@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0679-24-game) |
+| [0836-rectangle-overlap](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0836-rectangle-overlap) |
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
