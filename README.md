@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2211-count-collisions-on-a-road) |
 | [2389-design-a-text-editor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2389-design-a-text-editor) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1975-maximum-matrix-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
