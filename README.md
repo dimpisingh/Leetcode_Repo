@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1895-largest-magic-square) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Quickselect
 |  |
