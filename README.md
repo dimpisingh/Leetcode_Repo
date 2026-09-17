@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1406-stone-game-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [1732-find-the-highest-altitude](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1732-find-the-highest-altitude) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0976-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1628-count-submatrices-with-all-ones) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0867-new-21-game](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0940-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1397-search-suggestions-system) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
