@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3433-count-mentions-per-user) |
+| [3498-reverse-degree-of-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
