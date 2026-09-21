@@ -902,4 +902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
