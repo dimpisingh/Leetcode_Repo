@@ -898,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1341-movie-rating) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
