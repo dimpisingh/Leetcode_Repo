@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/0729-my-calendar-i) |
 | [3454-separate-squares-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3454-separate-squares-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3790-fruits-into-baskets-ii) |
