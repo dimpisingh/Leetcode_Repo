@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1975-maximum-matrix-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3524-find-x-value-of-array-i) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1386-cinema-seat-allocation](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1386-cinema-seat-allocation) |
 | [1418-fair-distribution-of-cookies](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1418-fair-distribution-of-cookies) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3513-number-of-unique-xor-triplets-i) |
