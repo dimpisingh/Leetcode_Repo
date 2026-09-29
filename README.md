@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2358-number-of-ways-to-split-array](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2402-meeting-rooms-iii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -944,4 +947,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dimpisingh/Leetcode_Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dimpisingh/Leetcode_Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
