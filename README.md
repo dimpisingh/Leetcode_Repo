@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3713-longest-balanced-substring-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/dimpisingh/Leetcode_Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
